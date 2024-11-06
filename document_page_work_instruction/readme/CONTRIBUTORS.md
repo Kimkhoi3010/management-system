@@ -5,7 +5,7 @@
 - [Tecnativa](https://www.tecnativa.com):
   - Ernesto Tejeda
 
-Trobz
-
-- Dung Tran \<<dungtd@trobz.com>\>
+- [Trobz](https://www.trobz.com):
+  - Dung Tran \<<dungtd@trobz.com>\>
+  - Khoi (Kien Kim) \<<khoikk@trobz.com>\>
 - Yvan Dotet \<<yvan.dotet@logicasoft.eu>\>
